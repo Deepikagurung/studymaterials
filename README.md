@@ -1,3 +1,2 @@
-# TRACK OF MY STUDYMATERIALS
-NLP
-https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1
+# TRACK OF MY STUDYMATERIALS OF AITOP30
+
